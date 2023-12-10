@@ -5,5 +5,5 @@
 </p>
 
 <p align="center">
-  - <a href="https://hello-world-ovi.vercel.app/">hello-world-ovi.vercel.app</a>
+  <a href="https://hello-world-ovi.vercel.app/">hello-world-ovi.vercel.app</a>
 </p>
