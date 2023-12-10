@@ -1,7 +1,7 @@
 <h1 align="center">hello-world 👋</h1>
 
 <p align="center">
-  A hello world website.
+  a hello world website.
 </p>
 
 <p align="center">
