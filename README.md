@@ -1,3 +1,3 @@
-# hello-world
+# hello-world 👋
 
 a hello world website.
