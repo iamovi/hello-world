@@ -1,4 +1,9 @@
-# hello-world 👋
+<h1 align="center">hello-world 👋</h1>
 
-a hello world website.
-- [hello-world-ovi.vercel.app](https://hello-world-ovi.vercel.app/)
+<p align="center">
+  A hello world website.
+</p>
+
+<p align="center">
+  - <a href="https://hello-world-ovi.vercel.app/">hello-world-ovi.vercel.app</a>
+</p>
